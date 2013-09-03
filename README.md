@@ -1,5 +1,5 @@
-WHMDDNS (WHM/cPanel Dynamic DNS Updater Script)
-===============================================
+WHMDDNS (WHM Dynamic DNS Updater Script)
+========================================
 
 INSTALLATION
 ============
