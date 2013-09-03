@@ -1,0 +1,6 @@
+<?php
+
+// WHM URL
+$WHM_URL = "https://blah.com:2087";
+// recored time-to-live
+$record_TTL = 14400;
